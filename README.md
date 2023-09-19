@@ -42,4 +42,4 @@ Este é um projeto de exemplo que demonstra a implementação de uma seleção d
 
 DevMarcosEd
 
-<img src="./public/character-selection.png">
+<img src="./public/banner/character-selection.png">
